@@ -1,0 +1,84 @@
+{
+    "educationalStages": [
+        {
+            "Level": "PS1",
+            "Name": "السنة الأولى ابتدائي",
+            "HasQuiz2&3": false
+        },
+        {
+            "Level": "PS2",
+            "Name": "السنة الثانية ابتدائي",
+            "HasQuiz2&3": false
+        },
+        {
+            "Level": "PS3",
+            "Name": "السنة الثالثة ابتدائي",
+            "HasQuiz2&3": false
+        },
+        {
+            "Level": "PS4",
+            "Name": "السنة الرابعة ابتدائي",
+            "HasQuiz2&3": false
+        },
+        {
+            "Level": "PS5",
+            "Name": "السنة الخامسة ابتدائي",
+            "HasQuiz2&3": false
+        },
+        {
+            "Level": "JS1",
+            "Name": "السنة الأولى متوسط",
+            "HasQuiz2&3": false
+        },
+        {
+            "Level": "JS2",
+            "Name": "السنة الثانية متوسط",
+            "HasQuiz2&3": false
+        },
+        {
+            "Level": "JS3",
+            "Name": "السنة الثالثة متوسط",
+            "HasQuiz2&3": false
+        },
+        {
+            "Level": "JS4",
+            "Name": "السنة الرابعة متوسط",
+            "HasQuiz2&3": true
+        },
+        {
+            "Level": "HSS1",
+            "Name": "السنة الأولى ثانوي - علوم",
+            "HasQuiz2&3": true
+        },
+        {
+            "Level": "HSS2",
+            "Name": "السنة الثانية ثانوي - علوم",
+            "HasQuiz2&3": true
+        },
+        {
+            "Level": "HSS3",
+            "Name": "السنة الثالثة ثانوي - علوم",
+            "HasQuiz2&3": true
+        },
+        {
+            "Level": "HSL1",
+            "Name": "السنة الأولى ثانوي - آداب",
+            "HasQuiz2&3": true
+        },
+        {
+            "Level": "HSL2",
+            "Name": "السنة الثانية ثانوي - آداب",
+            "HasQuiz2&3": true
+        },
+        {
+            "Level": "HSL3",
+            "Name": "السنة الثالثة ثانوي - آداب",
+            "HasQuiz2&3": true
+        },
+        {
+            "Level": "UNI",
+            "Name": "الجامعة",
+            "HasQuiz2&3": false
+        }
+    ]
+}

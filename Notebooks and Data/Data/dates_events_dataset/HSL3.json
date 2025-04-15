@@ -1,0 +1,776 @@
+[
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1945/02/11",
+      "Content": "إنعقاد مؤتمر يالطا"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1945/07/17-1945/08/02",
+      "Content": "إنعقاد مؤتمر بوتزدام"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1945/08/06",
+      "Content": "إلقاء القنبلة الذرية على هيروشيما (بكالوريا 08 آف ل أ)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1945/08/09",
+      "Content": "إلقاء القنبلة الذرية على ناكازاكي (بكالوريا 108 ل أ)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1945/06/26",
+      "Content": "المصادقة على ميثاق الأمم المتحدة"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1945/10/24",
+      "Content": "تأسيس هيئة الأمم المتحدة (بكالوريا 09 آف 10 ش (ع))"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1947/03/12",
+      "Content": "مبدأ ترومان (بكالوريا 09 آف)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1947/06/05",
+      "Content": "مشروع مارشال (بكالوريا 08 آف 09 آف 10 ت 111 ش ع ل أ)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1947/09/22",
+      "Content": "مبدأ جدانوف (بكالوريا 10 آف)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1947/10/06",
+      "Content": "تأسيس مكتب الإعلام الشيوعي (الكومنفورم) (بكالوريا 109 آف ل أ)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1948/06/23 - 1949/05/12",
+      "Content": "أزمة برلين الأولى (بكالوريا 09 ت (1))"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1949/01/25",
+      "Content": "إنشاء منظمة الكوميكون (بكالوريا 09 آف ل أ)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1949/04/04",
+      "Content": "تأسيس الحلف الأطلسي (بكالوريا 08 آف 10 ش ع ت إ 11 آف)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1949/09/21",
+      "Content": "تفجير أول قنبلة نووية سوفياتية"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1949/10/01",
+      "Content": "نجاح الثورة الشيوعية في الصين بقيادة ماوتسي تونغ"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1950/06/25",
+      "Content": "غزو كوريا الشمالية لكوريا الجنوبية"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1953/03/05",
+      "Content": "وفاة ستالين"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1953/07/27",
+      "Content": "توقيع هدنة بالمينجيوم التي أنهت الحرب الكورية"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1954/03/13 - 1954/05/07",
+      "Content": "معركة ديان بيان فو (بكالوريا 08 ش (ع))"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1954/07/26",
+      "Content": "مؤتمر جنيف"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1954/09/08",
+      "Content": "تأسيس حلف جنوب شرق آسیا"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1955/02/24",
+      "Content": "تأسيس حلف بغداد"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1955/04/18 - 1955/04/24",
+      "Content": "مؤتمر باندونغ (بكالوريا 10 ل أ 11 آف)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1955/05/14",
+      "Content": "تأسيس حلف وارسو (بكالوريا 09 ل أ 10 ت 1)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1955/07/18 - 1955/07/21",
+      "Content": "مؤتمر جنيف المتعلق بالتعايش السلمي"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1956/02/14",
+      "Content": "تبني خروتشوف سياسة التعايش السلمي"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1956/04/17",
+      "Content": "إلغاء مكتب الكومنفورم"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1956/07/26",
+      "Content": "تأميم قناة السويس (بكالوريا 08 آف 11 ل أ)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1956/10/23",
+      "Content": "أزمة المجر"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1956/10/29",
+      "Content": "العدوان الثلاثي على مصر (بكالوريا 108 ش ع 09 ت)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1958-1961",
+      "Content": "أزمة برلين الثانية"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1961",
+      "Content": "مؤتمر بلغراد"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1961/08/09",
+      "Content": "إقامة جدار برلين (بكالوريا 08 ش (ع))"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1961/08/13",
+      "Content": "الإنتهاء من إقامة جدار برلين (بكالوريا 10 آ ف 11 ت 1)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1961/09/01",
+      "Content": "تأسيس حركة عدم الإنحياز (بكالوريا 10 ش ع ل أ)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1962/10/10",
+      "Content": "أزمة كوبا (بكالوريا 09 ت !)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1963/06/20",
+      "Content": "فتح الخط الأحمر الهاتفي بين البيت الأبيض و الكريملين"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1972/05/26",
+      "Content": "معاهدة سالت الأولى"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1972",
+      "Content": "زيارة نيكسون إلى موسكو"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1975",
+      "Content": "قمة الهلسنكي"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1979/06/18",
+      "Content": "معاهدة سالت الثانية"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1985/03/11",
+      "Content": "میخائیل غورباتشوف زعيم الإتحاد السوفياتي (بكالوريا 10 آف)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1989/11/09",
+      "Content": "سقوط جدار برلين (بكالوريا 08 آف 10 ل أ)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1989/12/03",
+      "Content": "مؤتمر مالطا بين بوش و غورباتشوف (بكالوريا 10 ش ع ل أ 11 آف)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1990/10/03",
+      "Content": "توحيد الألمانيتين و نهاية الحرب الباردة (بكالوريا 09 ت إ ل أ 10 ت إل أ)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1990/11/19",
+      "Content": "مؤتمر باريس ونهاية الحرب الباردة (بكالوريا 08 آف 10 ت إ ل أ)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1991/06/28",
+      "Content": "حل منظمة الكوميكون"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1991/07/01",
+      "Content": "حل حلف وارسو"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1991/09/05",
+      "Content": "حل الحزب الشيوعي"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1991/12/21",
+      "Content": "قمة الما انا عاصمة كازاخستان و تفكك الإتحاد السوفياتي"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1991/12/25",
+      "Content": "الإعلان عن دولة روسيا"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1961/09/01",
+      "Content": "تأسيس حركة عدم الإنحياز (بكالوريا 10 ش ع)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1943/02/10",
+      "Content": "بيان فيفري"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1945/05/08",
+      "Content": "مجازر قامة سطيف و خراطة"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1946/11/02",
+      "Content": "تأسيس حركة الانتصار للحريات الديموقراطية (بكالوريا الله)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1947/02/15",
+      "Content": "إنشاء المنظمة الخاصة (بكالوريا 11 أف)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1947/09/20",
+      "Content": "دستور الجزائر"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1950/03/18",
+      "Content": "الجهة الجزائرية الدفاع عن الحرية (بكالوريا 00 ت)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1950/03/18",
+      "Content": "اكتشاف المنظمة الخاصة"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1953/04",
+      "Content": "أزمة حركة الانتصار للحريات الديمقراطية"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1954/03/23",
+      "Content": "إنشاء اللجنة الثورية الموحدة والعمل (بكالوريا 1000 في 11 ل أ)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1954/11/01",
+      "Content": "اندلاع الثورة الجزائرية و إصدار بيان أول نوفمبر"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1955/01/14",
+      "Content": "إعتقال مصطفى بن بولعيد قائد المنطقة الأولى و استشهاد ديدوش مراد قائد المنطقة الثانية"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1955/01/25",
+      "Content": "تعيين جاك سوستيل والي عام على الجزائر"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1955/04/03",
+      "Content": "فرض حالة طوارئ على الجزائر"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1955/07/07",
+      "Content": "إضراب تجار العاصمة"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1955/06/13",
+      "Content": "تأسيس الاتحاد العام للطلبة المسلمين الجزائريين"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1955/08/20",
+      "Content": "هجومات الشمال القسنطيني (بكالوريا 109 الف ل ا 11 فل آت)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1955/09",
+      "Content": "هيئة الأمم المتحدة تناقش القضية الجزائرية"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1956/02/24",
+      "Content": "تأسيس الإتحاد العام للعمال الجزائريين (بكالوريا 11 ت (1))"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1956/05/19",
+      "Content": "إضراب الإتحاد العام للعمال الجزائرين (بكالوريا 11 ل 0)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1956/08/20",
+      "Content": "انعقاد مؤتمر الصومام (بكالوريا 100 101 ( ف))"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1956/10/22",
+      "Content": "اختطاف الطائرة المغربية التي كانت تنقل أحمد بن بلة، محمد خيضر، حسين آيت أحمد، محمد بوضياف، مصطفى الأشرف (بكالوريا 17 ل)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1957/01/07",
+      "Content": "بداية معركة الجزائر"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1957/01/28",
+      "Content": "إضراب ثمانية أيام"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1957/02/23",
+      "Content": "القاء القبض على العربي بن مهيدي"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1957/03/03",
+      "Content": "استشهاد العربي بن مهيدي"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1958/02/08",
+      "Content": "قصف ساقية سيدي يوسف (بكالوريا 09 ت : 11 شع)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1958/04/15",
+      "Content": "سقوط حكومة فيليب غابار"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1958/05/13",
+      "Content": "الإنقلاب العسكري للجيش الفرنسي (بكالوريا 11 أف 11 ت)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1958/06/01",
+      "Content": "تولي ديغول سلطة رئيس الجمهورية الفرنسية"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1958/09/19",
+      "Content": "تأسيس الحكومة المؤقة للجمهورية الجزائرية (بكالوريا 10 أف 11 ت)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1958/10/03",
+      "Content": "إعلان ديغول عن مشروع قسنطينة الإغرائي (بكالوريا 11 ت)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1958/10/23",
+      "Content": "إعلان ديغول عن سلم الشجعان (بكالوريا 110 في)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1959/09/16",
+      "Content": "اعتراف ديغول بحق الجزائريين في تقرير مصيرهم"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1960/02/13",
+      "Content": "تفجير فرنسا أول قنبلة ذرية لها في رفان"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1960/04/01",
+      "Content": "تفجير فرنسا الثانية قنبلة ذرية لها"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1960/06/28",
+      "Content": "انطلاق مفاوضات مولان"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1960/12/11",
+      "Content": "مظاهرات شعبية في الجزائر رافضة سياسة ديغول (بكالوريا 16 في عت)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1961/05/10",
+      "Content": "انطلاق مفاوضات إيفيان الأولى"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1961/07/20",
+      "Content": "استئناف المفاوضات في أو غران"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1961/10/17",
+      "Content": "مضاهرات المهاجرين الجزائريين في باريس"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1962/03/07",
+      "Content": "انطلاق مفاوضات إيفيان الثانية"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1962/03/18",
+      "Content": "التوقيع على اتفاقية إيفيان الثانية من طرف كريم بلقاسم و لوي جونس"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1962/03/19",
+      "Content": "وقف إطلاق النار (عبد الناصر) (بكالوريا 10 أف)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "War of Independence",
+      "Date": "1962/07/01",
+      "Content": "استفتاء تقرير المصير"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Post-Independence Era",
+      "Date": "1962/07/03",
+      "Content": "اعتراف ديغول باستقلال الجزائر"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Post-Independence Era",
+      "Date": "1962/07/05",
+      "Content": "الإعلان الرسمي عن الاستقلال (عيد الاستقلال)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Post-Independence Era",
+      "Date": "1962/09/25",
+      "Content": "ميلاد الجمهورية الجزائرية برئاسة بن بلة (بكالوريا 10 في ع 11 ش ع)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Post-Independence Era",
+      "Date": "1965/06/19",
+      "Content": "التصحيح الثوري بقيادة هواري بومدين"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Post-Independence Era",
+      "Date": "1989/02/25",
+      "Content": "إصدار دستور التعددية"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1916/05/16",
+      "Content": "إتفاقية سايكس بيكو و تقسيم بلاد الشام"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1917/11/02",
+      "Content": "صدور وعد بلفور"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1947/08/15",
+      "Content": "إستقلال و تقسيم الهند (بكالوريا 11 ش (ع))"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1947/10/10",
+      "Content": "تقسيم كوريا (بكالوريا 09 آف)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1947/11/29",
+      "Content": "القرار الأممي 181 القاضي بتقسيم فلسطين"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1948/05/14",
+      "Content": "قرار بريطانيا القاضي بإنهاء الإنتداب على فلسطين"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1948/05/15",
+      "Content": "الإعلان عن قيام دولة إسرائيل (بكالوريا 08 آف ل أ)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1948/05/16",
+      "Content": "الحرب العربية الإسرائيلية الأولى"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Modern Era",
+      "Date": "1949/10/01",
+      "Content": "إنتصار الثورة الشيوعية في الصين"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1952/07/23",
+      "Content": "الثورة المصرية"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1954/07/20",
+      "Content": "مؤتمر جنيف الخاص بالهند الصينية (بكالوريا 08 ل أ)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1965/01/01",
+      "Content": "إندلاع الثورة الفلسطينية (بكالوريا 08 ل أ 11 ش (ع))"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1967/06/05",
+      "Content": "الحرب العربية الإسرائيلية الثالثة (النكسة العربية)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1967/11/22",
+      "Content": "صدور القرار الدولي 242 الذي يطالب إسرائيل بالإنسحاب من الأراضي الفلسطينية"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1970/03/20",
+      "Content": "تأسيس المنظمة الفرانكفونية (بكالوريا 11 ش (ع))"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1971/03/26",
+      "Content": "إستقلال بنغلاديش عن باكستان"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1973/03/29",
+      "Content": "خروج الجيش الأمريكي من الفيتنام"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1973/09/05",
+      "Content": "المؤتمر الرابع لحركة عدم الإنحياز بالجزائر (بكالوريا 08 آف 10 آف)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1973/10/06",
+      "Content": "الحرب العربية الإسرائيلية الرابعة ثم صدور القرار 338"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1975/04/30",
+      "Content": "توحيد الفيتنام"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1977/11/19",
+      "Content": "زيارة الرئيس المصري أنور السادات لإسرائيل"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1978/09/17",
+      "Content": "معاهدة كامب ديفيد (أنور السادات, کارتر, مناحيم بيغن)"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1982/06/06",
+      "Content": "غزو إسرائيل للبنان"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1982/09/17",
+      "Content": "مجازر صبرا و شتیلا"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1988/11/15",
+      "Content": "إعلان المجلس الفلسطيني عن قيام دولة فلسطين في مؤتمر بالجزائر"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1991/10/30",
+      "Content": "مؤتمر مادريد للسلام"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1993/09/13",
+      "Content": "إتفاقية أوسلو بين إسرائيل وفلسطين"
+  },
+  {
+      "Educational stage": "HSL3",
+      "HistoricalEra": "Colonial Era",
+      "Date": "1993/09/13",
+      "Content": "الإتفاق على الحكم الذاتي في قطاع غزة وأريحا"
+  }
+]

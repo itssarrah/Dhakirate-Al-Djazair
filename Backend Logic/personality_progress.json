@@ -1,0 +1,36 @@
+{
+    "student@example.com": {
+        "HSS3": {
+            "solved_personalities": [
+                {
+                    "Personality Name": "وودرو ويلسن",
+                    "Description": "رئيس الو م أ بين عامي 1913 و 1921 ، أدخلبلاده الحرب العالمية الأولى في سنة 1917 إلى جانب دول الوفاق ، اشتهر بمبادئه 14 التي تأسست عليها عصبة الأمم .",
+                    "image_link": "https://upload.wikimedia.org/wikipedia/commons/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg"
+                },
+                {
+                    "Personality Name": "ونستون تشرشل",
+                    "Description": "رئيس وزراء بريطانيا 1940-1945و1951-1955.قاد بلاده إلي النصر في الح ع 2 تحصل على جائزة نوبل للآداب.شارك إلى جانب روزفلت في الإعداد للميثاق الأطلسي أوت 1941.",
+                    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/265px-Sir_Winston_Churchill_-_19086236948.jpg"
+                },
+                {
+                    "Personality Name": "هاري ترومان",
+                    "Description": "رجل سياسي أمريكي و رئيس الو م أ خلفا لفرا كلين روزفلت من 1945_ 1953 و صاحب القرار الذي ينص بقنبلة هيروشيما و نكازاكي و هو الذي تدخل فيالحرب الكوبية 1950 و من مساهمي قيام الدولة اليهودية و صاحب مشروع ترومان في 12مارس 1947 .",
+                    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/640px-TRUMAN_58-766-06_%28cropped%29.jpg"
+                },
+                {
+                    "Personality Name": "فرانكلين روزفلت",
+                    "Description": "شخصية سياسية أمريكية أنتخبرئيسا للوم أ لثلاث فترات متتالية من 1933*1945 حضر عدة مؤتمرات منها يالطاساهم في وضع الميثاق الأطلسي 14 أوت 1945 .",
+                    "image_link": "https://upload.wikimedia.org/wikipedia/commons/4/42/FDR_1944_Color_Portrait.jpg"
+                },
+                {
+                    "Personality Name": "دوايت إيزنهاور",
+                    "Description": "رجل سياسي و عسكري أمريكيورئيس اللوم أ بين 1953*1961 بعد ترومان. أول قائد لحلف الناتو في 1949وساهم في الحرب الكورية . وصاحب مشروعإيزنهاور 05 جانفي 1957 الذي ينص على مساعدات اقتصادية للشرق الأوسط .",
+                    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/1200px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg"
+                }
+            ],
+            "total_solved": 5,
+            "total_attempts": 5,
+            "correct_matches": 5
+        }
+    }
+}

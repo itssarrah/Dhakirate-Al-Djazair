@@ -1,0 +1,151 @@
+/* quiz3.css */
+.characters-container {
+  display: flex;
+  gap: 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0 20px;
+  min-width: fit-content;
+}
+
+.character {
+  cursor: move;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  font-weight: bold;
+  min-width: 200px;
+  min-height: 200px;
+}
+
+.character img {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+}
+
+.placeholders-container {
+  display: flex;
+  gap: 150px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0 20px;
+  min-width: fit-content;
+}
+
+.placeholder {
+  width: 100px;
+  height: 100px;
+  border: 2px dashed #aeaaaa;
+  padding: 20px;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 15px;
+  min-width: 100px;
+  min-height: 100px;
+}
+
+.placeholder-parent {
+  width: 280px;
+  height: 350px;
+  background-image: url("/public/cardbg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 20px;
+  text-align: center;
+  min-width: 280px;
+  min-height: 350px;
+}
+
+.placeholder img {
+  width: 100px;
+  height: 100px;
+  border-radius: 15px;
+}
+
+.drop-target {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  /* border: 2px dashed #ccc; */
+}
+
+button:disabled {
+  background-color: #ddd;
+  cursor: not-allowed;
+}
+
+/* quiz3.css */
+/* Correct Answer Animation */
+@keyframes correct-highlight {
+  0% {
+    box-shadow: 0 0 0px rgba(0, 255, 0, 0.5);
+    transform: scale(1);
+  }
+
+  50% {
+    box-shadow: 0 0 20px rgba(0, 255, 0, 1);
+    transform: scale(1.1);
+  }
+
+  100% {
+    box-shadow: 0 0 20px rgba(0, 255, 0, 1);
+    /* Persistent shadow */
+    transform: scale(1.1);
+    /* Keep the slight scale */
+  }
+}
+
+.correct {
+  animation: correct-highlight 1s ease-in-out forwards;
+}
+
+/* Incorrect Answer Animation */
+@keyframes incorrect-highlight {
+  0% {
+    box-shadow: 0 0 0px rgba(255, 0, 0, 0.5);
+  }
+
+  50% {
+    box-shadow: 0 0 20px rgba(255, 0, 0, 1);
+  }
+
+  100% {
+    box-shadow: 0 0 20px rgba(255, 0, 0, 1);
+    /* Persistent shadow */
+  }
+}
+
+.incorrect {
+  animation: incorrect-highlight 1s ease-in-out forwards;
+}
+
+/* Remove all media queries as they're not needed */
+
+@media screen and (max-width: 1280px) {
+  .characters-container {
+    transform: scale(0.8);
+    transform-origin: top center;
+  }
+
+  .placeholders-container {
+    transform: scale(0.8);
+    transform-origin: top center;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .characters-container {
+    transform: scale(0.6);
+  }
+
+  .placeholders-container {
+    transform: scale(0.6);
+  }
+}

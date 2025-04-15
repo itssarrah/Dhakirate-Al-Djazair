@@ -1,0 +1,10 @@
+Flask
+faiss-cpu
+sentence-transformers
+pandas
+numpy
+requests==2.27.1
+jsonschema==4.4.0
+groq
+flask_cors
+tashaphyne
