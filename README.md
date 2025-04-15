@@ -2,6 +2,8 @@
 
 ## Project Overview
 Dhakirate-Al-Djazair is an educational platform that leverages state-of-the-art NLP techniques, Retrieval-Augmented Generation, and gamification to enhance the teaching and learning of Algerian history.
+![image](https://github.com/user-attachments/assets/5027f993-5a33-41f6-8ec3-bfa08bfa8b50)
+![image](https://github.com/user-attachments/assets/6c615e7a-c8c4-4e0e-ab21-975d9dab0003)
 
 ## Repository Structure
 - **Backend Logic**: Flask application providing API endpoints for the frontend
